@@ -9,8 +9,6 @@ tags:
   - data
 ---
 
-# Text Mining 101 with Tidytext
-
 Back in September, I gave an introductory workshop on Digital Humanities and text mining in the [Summer School of Baltic Enlightenment and its Inheritance](https://sisu.ut.ee/mdad/sommerschule-die-baltische-aufkl%C3%A4rung-und-ihr-erbe). The audience was German philology undergraduate and graduate students with little knowledge of either of the topics.
 
 We discussed with the organizers for a while how this could be handled, from varying corpora related to Enlightenment era in the Baltic countries to inspiring questions that this could provide. My main goal was to provide them with hands on experience that they could be able to develop and explore later on themselves.
@@ -27,4 +25,4 @@ The training materials were designed closely following Julia Silge's and David R
 
 Code and materials of the workshop is available in [github](https://github.com/peeter-t2/DH-workshop-BAIE17). We used Gutenberg texts to look at simple word frequencies, compare texts, find [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) keywords and sentiment analysis across different books (in English) and within Lenz's play (in German).
 
-![The gender of speakers by scene in the last act of Lenz's Hofmeister](Bechdel_Akt5_Hofmeister.png)
+![The gender of speakers by scene in the last act of Lenz's Hofmeister]({{ site.url }}{{ site.baseurl }}/assets/images/Bechdel_Akt5_Hofmeister.png)

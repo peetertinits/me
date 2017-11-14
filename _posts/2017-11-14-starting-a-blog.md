@@ -22,4 +22,4 @@ Realistically, the community is possibly split on scholars who would happily rea
 
 As was succinctly put by David Robinson in that blog post. 
 
-![How useful our work can be.]("assets/images/DavidRobinson_eUSR2017_viaAmeliaMN.jpg")
+![How useful our work can be.]({{ site.url }}{{ site.baseurl }}assets/images/DavidRobinson_eUSR2017_viaAmeliaMN.jpg)
