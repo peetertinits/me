@@ -8,8 +8,6 @@ tags:
   - Varia
 ---
 
-# Starting a blog
-
 This is something I've been meaning to do for a while now, finally with some  [inspiration](http://varianceexplained.org/r/start-blog/) from David Robinson, I thought I'd give it a try.
 
 For a while I've been interested in various ways that people manage their attention, divide their focus, and eventually get stuff done. Given that people have been thinking about this since at least Ancient Rome (e.g. Marcus Aurelius in *[Meditations](https://en.wikipedia.org/wiki/Meditations)*, it's obvious that some progress has been made and it makes sense to learn from the other's experience.

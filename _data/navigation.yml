@@ -6,7 +6,15 @@ main:
     url: /year-archive/
   - title: "Research"
     url: /research/
-  - title: "More"
-    url: /more/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    children:
+    - title: "Child Page A1"
+      url: /
+    - title: "Child Page A2"
+      url: /
+    - title: "Child Page A3"
+      url: /
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /full-cv/
+

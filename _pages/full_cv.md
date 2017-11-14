@@ -1,4 +1,9 @@
+---
+permalink: /full-cv/
+last_modified_at: 2017-11-07T20:48:04-05:00
+redirect_from:
+  - /theme-setup/
+---
 
 
-
-Full cv is available as pdf here.
+Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_CV.pdf).

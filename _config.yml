@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en"
-title                    : "Title"
+title                    : "Data and tidbits"
 title_separator          : "-"
 name                     : "Peeter Tinits"
 description              : "An amazing website."
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Peeter Tinits"
   avatar           : "/assets/images/picture_PT.png"
-  bio              : "I am an amazing person."
+  bio              : "data, history, science and humanities"
   location         : "Tartu, Estonia"
   email            : peeter.tinits@gmail.com
   uri              :
