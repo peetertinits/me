@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-     url: /about/
+    url: /about/
   - title: "Posts"
-     url: /year-archive/
+    url: /year-archive/
   - title: "Research"
-     url: /research/
+    url: /research/
   - title: "More"
-     url: /more/
+    url: /more/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
