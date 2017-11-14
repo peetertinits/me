@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Peeter Tinits"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/picture_PT.png"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Tartu, Estonia"
+  email            : peeter.tinits@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : peeter-t2
   gitlab           :
   google_plus      :
   keybase          :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : yrgsupp
   vine             :
   weibo            :
   xing             :
