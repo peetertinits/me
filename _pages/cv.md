@@ -21,17 +21,19 @@ I have designed courses and taught, organized seminars
 Details {pop-below/unfold}
 
 ## Publications
-I have published, various places, .
+<details> I have published, various places, .
 
-Details {pop-below/unfold} 
+ <summary> Details {pop-below/unfold} </summary>
+
 {% include cv-pubs.md %}
-
+</details>
 
 ## Presentations
 <details> 
  <summary>I have given xx conference presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
+
 </details>
 
 ## Organizing work
