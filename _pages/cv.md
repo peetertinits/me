@@ -24,7 +24,7 @@ Details {pop-below/unfold}
 I have published, various places, .
 
 Details {pop-below/unfold} 
-{% include_relative cv-pubs.md %}
+{% include cv-pubs.md %}
 
 
 ## Presentations
@@ -32,7 +32,7 @@ Details {pop-below/unfold}
  <summary>I have given xx conference presentations </summary>
 
 Details {pop-below/unfold}
-{% include_relative cv-pres.md %}
+{% include cv-pres.md %}
 </details>
 
 ## Organizing work
@@ -42,4 +42,4 @@ Details {pop-under unfold, bigger list}
 
 ## I have also attended x conferences or workshops
 
-{% include_relative cv-meets.md %}
+{% include cv-meets.md %}

@@ -1,10 +1,3 @@
----
-permalink: /cv-pres/
-last_modified_at: 2017-11-07T20:48:04-05:00
-author_profile: true
----
-
-
 21. Tinits, P. 2017. Oral presentation. Of the replication crisis and its influence to research in a small  community. (Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas.) Theoretical  Linguistics in Estonia V. 23.11.2017 - 24.11.2017
 20. Tinits, P. & Sobchuk, O. 2017. Oral presentation. Digital humanities meets film history: is there progress  in films? Digital Humanities in Estonia: Open licences, open content, open data: tools for  developing digital humanities. Tartu, Estonia. 01.11.2017 – 03.11.2017
 19. Tinits, P. & Hartmann, S. 2017. Oral presentation. The grammar of knowledge: Investigating the  emergence of conventions in the evolution of Wikipedia. XLanS: Triggers of language change  in the Language Sciences. Lyon, France. 11.10.2017 - 13.09.2017.
