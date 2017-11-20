@@ -8,12 +8,15 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 
 ## Education
 
-- I studied Semiotics and Culturology in Tartu University (2005-2010 for BA. 
-- I studied Evolution of Language and Cognition in University of Edinburgh (2011-2012) for MSc. <br>
-- I studied Semiotics and cultural studies in Tartu University (2010-2015) for MA (*cum laude*).
-- I am enrolled for Linguistics PhD in Tallinn University (2013- planned 2018).
+- BA Semiotics and Culturology in Tartu University (2005-2010) 
+- MSc Evolution of Language and Cognition in University of Edinburgh (2011-2012)
+- MA (*cum laude*) Semiotics and cultural studies in Tartu University (2010-2015)
+- PhD (in progress) Linguistics in Tallinn University (2013- planned 2018).
 
-Details (including MOOCs and extra courses)
+<details> <summary>Details (including MOOCs and extra courses)</summary>
+
+</details>
+
 
 ## Teaching
 I have (co-)designed and taught 2 university courses and 1 e-course for high school students. I have also co-organized a seminar series of invited speakers. See more at [Teaching](/teaching/)
