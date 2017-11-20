@@ -30,13 +30,11 @@ Details {pop-below/unfold}
 ## Presentations
 <details> 
  <summary>I have given xx conference presentations </summary>
-{{#markdown}}
 Details {pop-below/unfold}<p>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}<p>
 
-{{ {% include cv-pres.md %} | markdownify }}
-{{/markdown}}
+
 </details>
 
 ## Organizing work
