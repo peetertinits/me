@@ -32,6 +32,9 @@ Details {pop-below/unfold}
  <summary>I have given xx conference presentations </summary>
 {{#markdown}}
 Details {pop-below/unfold}<p>
+{% capture my_include %}{% include cv-pres.md %}{% endcapture %}
+{{ my_include | markdownify }}<p>
+
 {{ {% include cv-pres.md %} | markdownify }}
 {{/markdown}}
 </details>
@@ -43,4 +46,5 @@ Details {pop-under unfold, bigger list}
 
 ## I have also attended x conferences or workshops
 
-{% include cv-meets.md %}
+{% capture my_include %}{% include cv-meets.md %}{% endcapture %}
+{{ my_include | markdownify }}
