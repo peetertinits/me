@@ -8,7 +8,7 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 
 ## Education
 
-- I studied Semiotics and Culturology in Tartu University (2005-2010 for BA. <br>
+- I studied Semiotics and Culturology in Tartu University (2005-2010 for BA. 
 - I studied Evolution of Language and Cognition in University of Edinburgh (2011-2012) for MSc. <br>
 - I studied Semiotics and cultural studies in Tartu University (2010-2015) for MA (*cum laude*).
 - I am enrolled for Linguistics PhD in Tallinn University (2013- planned 2018).
@@ -16,14 +16,11 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 Details (including MOOCs and extra courses)
 
 ## Teaching
-I have designed courses and taught, organized seminars
-
-Details {pop-below/unfold}
+I have (co-)designed and taught 2 university courses and 1 e-course for high school students. I have also co-organized a seminar series of invited speakers. See more at [Teaching](/teaching/)
 
 ## Publications
 <details> <summary> I have published, various places, .</summary>
 
- Details {pop-below/unfold} 
 {% capture my_include %}{% include cv-pubs.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
@@ -31,19 +28,24 @@ Details {pop-below/unfold}
 
 ## Presentations
 <details> 
- <summary>I have given xx conference presentations </summary>
+ <summary>I have given 20 conference presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 </details>
 
 ## Organizing work
-I have helped organize x conference with roles ranging from co-chair to volunteer.
-
-Details {pop-under unfold, bigger list}
-
 <details>
- <summary>## I have also attended x conferences or workshops</summary>
+ <summary>
+I have helped organize 10 conference with roles ranging from co-chair to volunteer.</summary>
+
+{% capture my_include %}{% include cv-orgs.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</details>
+
+## Conference attendance
+<details>
+ <summary>I have also attended 40+ conferences or workshops</summary>
 
 {% capture my_include %}{% include cv-meets.md %}{% endcapture %}
 {{ my_include | markdownify }}
