@@ -32,7 +32,7 @@ Details {pop-below/unfold}
  <summary>I have given xx conference presentations </summary>
 {{#markdown}}
 Details {pop-below/unfold}
-{% include cv-pres.md %}
+{{ {% include cv-pres.md %} | markdownify }}
 {{/markdown}}
 </details>
 
