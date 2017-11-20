@@ -21,11 +21,12 @@ I have designed courses and taught, organized seminars
 Details {pop-below/unfold}
 
 ## Publications
-<details> I have published, various places, .
+<details> <summary> I have published, various places, .</summary>
 
- <summary> Details {pop-below/unfold} </summary>
+ Details {pop-below/unfold} 
+{% capture my_include %}{% include cv-pubs.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
-{% include cv-pubs.md %}
 </details>
 
 ## Presentations
@@ -41,7 +42,10 @@ I have helped organize x conference with roles ranging from co-chair to voluntee
 
 Details {pop-under unfold, bigger list}
 
-## I have also attended x conferences or workshops
+<details>
+ <summary>## I have also attended x conferences or workshops</summary>
 
 {% capture my_include %}{% include cv-meets.md %}{% endcapture %}
 {{ my_include | markdownify }}
+
+</details>
