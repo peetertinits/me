@@ -31,7 +31,7 @@ I have (co-)designed and taught 2 university courses and 1 e-course for high sch
 
 ## Presentations
 <details> 
- <summary>I have given 20 conference presentations </summary>
+ <summary>I have given 21 conference presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
