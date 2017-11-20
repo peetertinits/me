@@ -6,11 +6,17 @@ author_profile: true
 
 
 41	01.11.2017 – 03.11.2017. Digital Humanities in Estonia: Open licences, open content, open data: tools 	for developing digital humanities. Tartu, Estonia. 
+
 40	11.10.2017-13.09.2017. XLanS: Triggers of language change in the Language Sciences. Lyon, France.	
+
 39	13.09.2017-15.09.2017. Inaugural Cultural Evolution Society Conference. Jena, Germany. 	
+
 38	28.08.2017-01.09.2017. First Potsdam Summer School on Statistical Methods for Linguistics and 	Psychology (SMLP). Potsdam, Germany.
+
 37	05.09.2017-06.09.2017. Summer School for Baltic Enlightenment and its inheritance. Tartu, Estonia.	
+
 36	28.08.2017-01.09.2017. First Potsdam Summer School on Statistical Methods for Linguistics and 	Psychology (SMLP). Potsdam, Germany.
+
 35	10.07.2017-14.07.2017. The Fourteenth International Cognitive Linguistics Conference (ICLC-14). 	Tartu, Estonia. Conference volunteer.
 34	15.06.2017-17.06.2017. The 11th conference of the International Association for Research in L1 	Education. Tallinn, Estonia. Organizing member.
 33	12.05.2017-14.05.2017. 43rd summer school of theoretical biology in Estonia. Pühajõe, Estonia.	

@@ -26,3 +26,4 @@ author_profile: true
 3. Tinits, P. 2014. Oral mini-presentation "Language Simplification in the Laboratory: A Behavioural  Experiment for Linguistic Typology". 8th Summer School in Historical Sociolinguistics.  Kristiansand, Norway 27.07.2014 – 03.06.2014.
 2. Tinits, P. 2013. Oral presentation "Bias for Language Simplicity in Composite Populations?“. 19th  International Congress for Linguists (CIL-19). Geneva, Switzerland. 22.07.2013 – 27.07.2013. 
 1. Tinits, P. 2013. Oral presentation "Application of Semiotic Experiments in Linguistic Research". 8th  Conference of Nordic Association of Semiotic Studies: Sign Evolution on Multiple Timescales   (NASS-8). Aarhus, Denmark 29.05.2013 – 31.05.2013.
+{: reversed="reversed"}
