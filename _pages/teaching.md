@@ -9,14 +9,11 @@ author_profile: true
 Courses I have taught or am teaching:
 
 At Tartu University:
-- (With Oleg Sobchuk, Artjom Shelya) a course on cultural evolution, Cultural Evolution Seminar (HVKU.05.003, 3 ECTS)
-- An introductory course to experimental semiotics, Experimental Semiotics (FLSE.00.303, 3 ECTS)
+- Cultural Evolution Seminar (HVKU.05.003, 3 ECTS)
+> With Oleg Sobchuk and Artjom Shelya, we designed and taught an introductory course on cultural evolution with an emphasis on applications in humanities.
+- Experimental Semiotics (FLSE.00.303, 3 ECTS)
+> I'm currently teaching an introductory course to experimental semiotics, on applying experimental methods for semiotic research. Partial course schedule is maintained also [here](https://expsem-tartu.github.io/).
 
 Online courses:
-- With Anni Jürine, we designed an online course to teach highschoolers to write to Wikipedia for Wikimedia Foundation Estonia. We are currently managing it for the second year.
-
-
-Invited talks:
-
-At Tartu University
-- guest lecture on Language Planning in Estonian in Multilingual Baltic-Sea Europe: Language Contacts and Linguistic Landscapes (FLEE.04.223) - 20.10.2016  
+- Introduction to Wikipedia (P2TP.TK.067) 
+> With Anni Jürine, we designed an online course to teach highschoolers to write to Wikipedia for Wikimedia Foundation Estonia. We are currently managing it for the second year.

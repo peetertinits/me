@@ -1,6 +1,7 @@
-41. 01.11.2017 – 03.11.2017. Digital Humanities in Estonia: Open licences, open content, open data: tools  for developing digital humanities. Tartu, Estonia.  
-40. 11.10.2017-13.09.2017. XLanS: Triggers of language change in the Language Sciences. Lyon, France.  
-39. 13.09.2017-15.09.2017. Inaugural Cultural Evolution Society Conference. Jena, Germany.   
+41. 23.11.2017 - 24.11.2017 Theoretical Linguistics in Estonia V. Tartu, Estonia.  
+40. 01.11.2017 – 03.11.2017. Digital Humanities in Estonia: Open licences, open content, open data: tools  for developing digital humanities. Tartu, Estonia.  
+39. 11.10.2017-13.09.2017. XLanS: Triggers of language change in the Language Sciences. Lyon, France.  
+38. 13.09.2017-15.09.2017. Inaugural Cultural Evolution Society Conference. Jena, Germany.   
 37. 05.09.2017-06.09.2017. Summer School for Baltic Enlightenment and its inheritance. Tartu, Estonia.  
 36. 28.08.2017-01.09.2017. First Potsdam Summer School on Statistical Methods for Linguistics and  Psychology (SMLP). Potsdam, Germany. 
 35. 10.07.2017-14.07.2017. The Fourteenth International Cognitive Linguistics Conference (ICLC-14).  Tartu, Estonia. Conference volunteer. 

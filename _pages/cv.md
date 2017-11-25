@@ -31,7 +31,7 @@ Being at the late stages of my PhD, there is a lot of things in prep, hoping to 
 </details>
 
 ## Presentations
-I have given 21 conference presentations.
+I have given 21 conference/workshop presentations.
 <details> <summary> Details </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}

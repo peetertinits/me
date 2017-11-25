@@ -9,6 +9,8 @@ tags:
   - data
 ---
 
+Under construction
+
 One research paradigm that I have been involved in applying a few times, and that is becoming a common toolkit in certain areas of linguistics, is an artificial language learning experiment. The main idea is that you provide participants with a (miniature) artificial language, and have them learn it, use it, or do some tasks with it in a controlled environment. By observing how exactly they do this, and what kinds of results emerge in controlled circumstances for this well-designed miniature language, we could arguably learn about aspects of how natural languages behave. There is a nice overview of some of these experiments for example in [(Tamariz 2017)](#myfootnote1).
 
 It can be used for various types of questions, but needs a general set of tools for it.
@@ -16,6 +18,10 @@ Often the language itself is just a tool that's in the background - so how to ma
 
 
 There are a number of considerations that go into making these experiments and doing them well - one of them is the shape of a language itself. As I have done this a few times now, and this isn't something for which good guides are available or perhaps can even be made, I thought I would walk through the steps that go into making a language that can work in an artificial language experiment.
+
+
+- general overviews http://www.replicatedtypo.com/experiments-in-communication-pt-1-artificial-language-learning-and-constructed-communication-systems/1520.html
+
 
 ## Step 1. Purpose of the language
 
@@ -26,10 +32,17 @@ There are experiments that have used various sorts - for example + refs
 
 ### The procedure of language learning
 
-If they are expected to learn it to some degree of competence, then it matters also a lot, how the language is presented at first, what is the procedure for language learning? 
+If they are expected to learn it to some degree of competence, then it matters also a lot, how the language is presented at first, what is the procedure for language learning?
 
 
 ## Set of phonemes
+
+http://web.phonetik.uni-frankfurt.de/upsid_info.html
+
+https://en.wikipedia.org/wiki/Consonant#Most_common
+
+https://www.quora.com/What-are-the-most-common-phonemes-among-all-language
+
 
 
 ### Native language connections
@@ -48,21 +61,52 @@ An easy example What for europeans is /l/ and /r/ might be just one difficult to
 
 why etc
 
+https://phonotactic.drupal.ku.edu/
+
+- http://corpustools.readthedocs.io/en/latest/phonotactic_probability.html
+- http://www.iphod.com/calculator/
+- http://linguistics.ucla.edu/people/hayes/BLICK/
+- https://phonologicalcorpustools.github.io/CorpusTools/
+- http://linguistics.ucla.edu/people/hayes/BLICK/
+- https://wiki.bcs.rochester.edu/HlpLab/PsycholinguisticsResources
+- http://www.iphod.com/
+- https://gist.github.com/ElGatoLoco/6593afc041eaa4df2f9028259ef3d0e7
+- https://pypi.python.org/pypi/django-phonotactics/0.1.2
+- http://www.phonotactics.ml/
+- http://www.people.ku.edu/~mvitevit/PhonoProbHome.html
+- https://phonotactic.drupal.ku.edu/
+- http://www.bncdnet.ku.edu/cml/info_ccc.vi
+-
+
+
+
 ### Native language
 
 
-## Within language relations, 
+## Within language relations,
 
 can use hamming or levenstein at the very start to defend against accidental similarities...
 
 
 
+## Text to speech
+
+- http://mary.dfki.de/download/index.html
+- https://github.com/marytts/marytts/issues/434
+- https://www.academia.edu/19812397/A_Phonetic_Transcription_System_for_the_Shona_Languge
+- https://github.com/HaraldBerthelsen/voice-stts-sv-hb-hsmm
+- https://github.com/marytts/marytts/wiki/MaryInterface
+- http://mary.dfki.de:59125/
+- http://www.dev.voxforge.org/projects/Main/wiki/TextToSpeech
+- http://espeak.sourceforge.net/languages.html
+-
 
 
 
 
 
-### Refs 
+
+### Refs
 
 <a name="myfootnote1">1</a>: Footnote content goes here
 <a name="myfootnote2">2</a>: Footnote content goes here
