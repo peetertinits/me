@@ -30,6 +30,13 @@ The very first step is to think about the purpose of the language and the role i
 There are experiments that have used various sorts - for example + refs
 [Kirby, Cornish, Smith 2008](#myfootnote2)
 
+
+sometimes it can be a main thing...
+
+often it's gonna be a background feature that you really want to get done quickly and easily...
+
+
+
 ### The procedure of language learning
 
 If they are expected to learn it to some degree of competence, then it matters also a lot, how the language is presented at first, what is the procedure for language learning?
@@ -78,6 +85,7 @@ https://phonotactic.drupal.ku.edu/
 - http://www.bncdnet.ku.edu/cml/info_ccc.vi
 -
 
+CVCVCV could be a justified phonotactics based on frequencies in languages - see for refs in my master's dissertation perhaps...
 
 
 ### Native language
@@ -91,6 +99,9 @@ can use hamming or levenstein at the very start to defend against accidental sim
 
 ## Text to speech
 
+
+for CVCVCV - the speech processor could be trained for this... for some reason fluent speaking needs to consider more than one character at the time, so CVCV works nicely..
+
 - http://mary.dfki.de/download/index.html
 - https://github.com/marytts/marytts/issues/434
 - https://www.academia.edu/19812397/A_Phonetic_Transcription_System_for_the_Shona_Languge
@@ -99,10 +110,16 @@ can use hamming or levenstein at the very start to defend against accidental sim
 - http://mary.dfki.de:59125/
 - http://www.dev.voxforge.org/projects/Main/wiki/TextToSpeech
 - http://espeak.sourceforge.net/languages.html
--
+- https://github.com/marytts/marytts-txt2wav
+
+can also share the altered py file perhaps to go through a csv list...
 
 
+https://en.wikipedia.org/wiki/Oromo_language#Consonant_and_vowel_phonemes
+https://en.wikipedia.org/wiki/Swedish_phonology#Consonants
 
+https://en.wikipedia.org/wiki/Turkish_phonology#Consonants
+- good to use the phonotactics that the synthesizer has...
 
 
 

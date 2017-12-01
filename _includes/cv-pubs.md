@@ -20,7 +20,7 @@
 
 ## Reviews and summaries
 
-8. Tinits, P. 2017. How to make an opera about science? (*Kuidas teha ooperit teadusest?*) A review of the opera „Der nordische Baer” by Dominy Clements. Teater. Muusika. Kino. May, 2017.
+8. **Tinits, P.** 2017. How to make an opera about science? (*Kuidas teha ooperit teadusest?*) A review of the opera „Der nordische Baer” by Dominy Clements. Teater. Muusika. Kino. May, 2017.
 7. **Tinits, P.** 2014. Meaning and meaning fields: A non-dualist approach by Martin Staude. Review of 	Staude, Martin 2012. Meaning in Communication, Cognition, and Reality: Outline of a Theory 	from Semiotics, Philosophy, and Sociology. Sign Systems Studies, 42(1), 147 - 156. (DOI: 	http://dx.doi.org/10.12697/SSS.2014.42.1.07)
 {: reversed="reversed"}
 
