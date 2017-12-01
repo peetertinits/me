@@ -11,6 +11,8 @@ tags:
 
 Under construction
 
+A subjective intro, but can still be useful
+
 One research paradigm that I have been involved in applying a few times, and that is becoming a common toolkit in certain areas of linguistics, is an artificial language learning experiment. The main idea is that you provide participants with a (miniature) artificial language, and have them learn it, use it, or do some tasks with it in a controlled environment. By observing how exactly they do this, and what kinds of results emerge in controlled circumstances for this well-designed miniature language, we could arguably learn about aspects of how natural languages behave. There is a nice overview of some of these experiments for example in [(Tamariz 2017)](#myfootnote1).
 
 It can be used for various types of questions, but needs a general set of tools for it.
