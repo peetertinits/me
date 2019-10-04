@@ -16,7 +16,6 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
-<<<<<<< HEAD
 locale                   : "en"
 title                    : "Data and tidbits"
 title_separator          : "-"
