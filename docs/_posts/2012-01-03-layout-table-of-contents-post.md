@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Table Of Contents"
+title: "Layout: Post with Table of Contents"
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -83,7 +83,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 Make any link standout more when applying the `.btn` class.
 
 ```html
-<a href="#" class="btn btn-success">Success Button</a>
+<a href="#" class="btn btn--success">Success Button</a>
 ```
 
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
