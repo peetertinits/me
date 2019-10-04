@@ -9,6 +9,11 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 
 ## Education
 
+- BA Semiotics and Culturology. University of Tartu (2010).
+- MSc Evolution of Language and Cognition. University of Edinburgh (2012).
+- MA (*cum laude*) Semiotics and Cultural Studies. University of Tartu (2015).
+- PhD (in progress) Linguistics. Tallinn University (2013-...).
+
 - PhD (in progress) Linguistics in Tallinn University (2013- planned 2018).
 - MA (*cum laude*) Semiotics and cultural studies in Tartu University (2010-2015)
 - MSc Evolution of Language and Cognition in University of Edinburgh (2011-2012)
@@ -18,9 +23,8 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 
 </details>
 
-
 ## Teaching
-I have (co-)designed and taught 2 university courses and 1 e-course for high school students. I have also co-organized a seminar series of invited speakers. See more at [Teaching](teaching)
+I have taught lessons and workshops on cultural evolution, text mining, and experimental semiotics. See more at [Teaching](teaching)
 
 ## Publications
 Being at the late stages of my PhD, there is a lot of things in prep, hoping to complete. Works already published are here.
