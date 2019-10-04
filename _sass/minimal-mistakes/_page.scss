@@ -504,21 +504,21 @@
 .wide {
   .page {
     @include breakpoint($large) {
-      padding-right: 100px;
+      padding-right: 0px;
     }
 
     @include breakpoint($x-large) {
-      padding-right: 100px;
+      padding-right: 0px;
     }
   }
 
   .page__related {
     @include breakpoint($large) {
-      padding-right: 100px;
+      padding-right: 0px;
     }
 
     @include breakpoint($x-large) {
-      padding-right: 100px;
+      padding-right: 0px;
     }
   }
 }
