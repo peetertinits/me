@@ -6,11 +6,13 @@ main:
     url: /year-archive/
   - title: "Research"
     url: /research/
+  - title: "Datasets"
+    url: /datasets/
     children:
     - title: "Child Page A1"
-      url: /
+      url: /test1/
     - title: "Child Page A2"
-      url: /
+      url: /test2/
     - title: "Child Page A3"
       url: /
   - title: "Teaching"
