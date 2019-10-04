@@ -20,7 +20,6 @@ locale                   : "en"
 title                    : "Data and tidbits"
 title_separator          : "-"
 name                     : "Peeter Tinits"
-=======
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
