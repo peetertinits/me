@@ -19,7 +19,7 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 </details>
 
 ## Teaching
-I have taught lessons and workshops on cultural evolution, historical sociolinguistics, text mining, and experimental semiotics. See more at [Teaching](teaching)
+I've given lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more at [Teaching](teaching)
 
 ## Publications
 Being at the late stages of my PhD, there is a lot of things in prep, hoping to complete. Works already published are here.

@@ -7,14 +7,25 @@ author_profile: true
 classes: wide
 ---
 
-Courses I have taught or am teaching:
 
-At Tartu University:
-- Cultural Evolution Seminar (HVKU.05.003, 3 ECTS)
-> With Oleg Sobchuk and Artjom Shelya, we designed and taught an introductory course on cultural evolution with an emphasis on applications in humanities.
-- Experimental Semiotics (FLSE.00.303, 3 ECTS)
-> I'm currently teaching an introductory course to experimental semiotics, on applying experimental methods for semiotic research. Partial course schedule is maintained also [here](https://expsem-tartu.github.io/).
+##### 2019
+- Text Mining in R and Reproducible Research (DIGMET2019, ENG) [Github](https://github.com/peeter-t2/TM-TartuSummer2019)
+- Introduction to Text Mining with R and Tidyverse (in ETH700, RTU, ENG) [Github](https://github.com/peeter-t2/TM-RigaApr2019)
+- Processing and Analyzing Textual Data in the Humanities (HVEE.01.006, UT, EST) [Github](https://github.com/peeter-t2/TM-TartuSpring2019)
+  - with Liina Lindström
+##### 2018
+- Digital Humanities and Text Mining with R (WS2018, ENG) [Github](https://github.com/peeter-t2/workshop-TartuWS2018)
+  - with Oleg Sobchuk
+##### 2017
+- Cultural Evolution Seminar (HVKU.05.003, UT, ENG)  [Seminar website](https://evocultures.wordpress.com/) 
+   - with Oleg Sobchuk, Artjom Shelya
+- Experimental Semiotics (FLSE.00.303, UT, ENG)  [Materials](https://expsem-tartu.github.io/)
+- Introduction to Wikipedia (P2TP.TK.067, UT-YA, EST) [Materials](https://et.wikipedia.org/wiki/Vikipeedia:E-kursus)
+  - with Anni Jürine
+- Introduction to Digital Humanities (BAIE2017, ENG) [Github](https://github.com/peeter-t2/workshop-BAIE2017)
+##### 2016
+- Introduction to Wikipedia (P2TP.TK.067, UT-YA, EST) [Materials](https://et.wikipedia.org/wiki/Vikipeedia:E-kursus)
+  - with Anni Jürine
 
-Online courses:
-- Introduction to Wikipedia (P2TP.TK.067) 
-> With Anni Jürine, we designed an online course to teach highschoolers to write to Wikipedia for Wikimedia Foundation Estonia. We are currently managing it for the second year.
+*- UT=University of Tartu, RTU=Riga Technical University, UT-YA=University of Tartu Youth Academy
+**- EST=Estonian, ENG=English

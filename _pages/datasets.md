@@ -5,16 +5,8 @@ author_profile: true
 classes: wide
 ---
 
-Cultural evolution is.
+Over the years I have compiled some datasets for research and/or education. Feel free to reuse them.
 
-
-
-
-
-
-Together with Artjom Shelya, Oleg Sobchuk, we have organized a seminar series at Tartu University on cultural evolution, and maintain a [webpage](https://evocultures.wordpress.com/) on the topic.
-
-Research:
-With (list of names) - we did a study of anachronies of films
-With Oleg Sobchuk - we're doing a study on the complexity of film crews
-With Stefan Hartmann - we're doing a study on the emergence of conventions in Wikipedia writing
+- Sky Plus Top 40 Estonian songs 1994-2018 [Dataset](https://github.com/peeter-t2/EestiTop40_laulus6nad)
+- Estonian Mixed Corpus Fiction Texts in Tidy Format [Dataset](https://github.com/peeter-t2/tidy_ilukirj)
+- The Annual Independence Day Speeches by Estonian Presidents 1993-2019 [Dataset](https://github.com/peeter-t2/aastapaevakoned)
