@@ -12,11 +12,11 @@ main:
     url: /datasets/
     children:
     - title: "Child Page A1"
-      url: /test1/
+      url: /talks/
     - title: "Child Page A2"
-      url: /test2/
+      url: /datasets/
     - title: "Child Page A3"
-      url: /
+      url: /test3/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
