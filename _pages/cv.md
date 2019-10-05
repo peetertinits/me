@@ -7,7 +7,7 @@ classes: wide
 
 Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_CV.pdf).
 
-## Education
+### Education
 
 - PhD (in progress) Linguistics. Tallinn University (2013-...).
 - MA (*cum laude*) Semiotics and Cultural Studies. University of Tartu (2015).
@@ -18,10 +18,10 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 
 </details>
 
-## Teaching
+### Teaching
 I've given lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more at [Teaching](teaching)
 
-## Publications
+### Publications
 Being at the late stages of my PhD, there is a lot of things in prep, hoping to complete. Works already published are here.
 <details> <summary> Details </summary>
 
@@ -30,7 +30,7 @@ Being at the late stages of my PhD, there is a lot of things in prep, hoping to 
 
 </details>
 
-## Presentations
+### Presentations
 I have given 21 conference/workshop presentations.
 <details> <summary> Details </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
@@ -38,7 +38,7 @@ I have given 21 conference/workshop presentations.
 
 </details>
 
-## Organizing work
+### Organizing work
 I have helped organize 10 conference with roles ranging from co-chair to volunteer.
 <details>
  <summary>Details</summary>
