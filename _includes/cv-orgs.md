@@ -9,3 +9,14 @@
 6. Conference volunteer. Graduate Conference on Areal Linguistics: Grammar and Contacts. Tartu,  Estonia. 04.05.2012-06.05.2012
 1. Conference volunteer. Spring School 'Interdisciplinary College 2010'. Günne, Germany. 12.03.2010-19.03.2010
 {: reversed="reversed"}
+
+- 2016 - ... Estonian Society for Applied Linguistics. Member.
+- 2016 - ... Estonian Society for Digital Humanities. Founding member. Board member.
+- 2015 - ... Johannes Aavik Society. Member.
+- 2015 - ... Society for the Study of Cultural Evolution. Founding member.
+- 2013 - ... International Association for Cognitive Semiotics. Founding member.
+- 2013 - ... Nordic Association of Semiotic Studies. Member.
+- 2012 - ... United Kingdom Philological Society. Member.
+- 2011 - ... International Semiotics Association. Member.
+- 2011 - ... Estonian Semiotics Association. Member.
+- 2010 - ... University of Tartu Linguistic Circle. Member.
