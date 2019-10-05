@@ -6,6 +6,8 @@ main:
     url: /year-archive/
   - title: "Research"
     url: /research/
+  - title: "Talks"
+    url: /talks/
   - title: "Datasets"
     url: /datasets/
     children:
