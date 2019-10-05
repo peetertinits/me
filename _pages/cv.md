@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Download: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_long_CV.pdf).
+See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_long_CV.pdf).
 
 ### Education
 
@@ -15,37 +15,47 @@ Download: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter
 - BA Semiotics and Culturology. University of Tartu (2010).
 
 ### Teaching
-I've given lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more at [Teaching](teaching)
+I sometimes give lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more at [Teaching](teaching)
 
-### Publications
-Being at the late stages of my PhD, there is a lot of things in prep, hoping to complete. Works already published are here.
-<details> <summary> Details </summary>
+### Publications (selected)
+- Sobchuk, O.; Tinits, P. To appear. Cultural attraction in film evolution: The case of anachronies. Journal of Cognition and Culture.
+- Tinits, P.* ; Nölle, J.* ; Hartmann, S.* 2017. Usage context influences the evolution of overspecification in iterated learning. Journal of Language Evolution, 2: 2, 148–159. [https://doi.org/10.1093/jole/lzx011](https://doi.org/10.1093/jole/lzx011) * - Authors contributed equally
+<details> <summary> All publications </summary>
 
 {% capture my_include %}{% include cv-pubs.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 </details>
 
-### Presentations
-I have given 21 conference/workshop presentations.
-<details> <summary> Details </summary>
+### Presentations (selected)
+- Tinits, P. 2019. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019
+- Tinits, P. 2018. Integrating databases to study language history. *6th Estonian Digital Humanities Conference.* Tartu, Estonia. 26.09.2018-28.09.2018
+- P. Tinits & S. Hartmann 2018. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution 05.06-08-06.2018.* Tartu, Estonia
+- O. Sobchuk & P. Tinits 2018. Films become more complex: three case studies. *Applications in Cultural Evolution 05.06-08-06.2018.* Tartu, Estonia
+- Tinits, P. 2017. Of the replication crisis and its influence to research in a small community. *Theoretical Linguistics in Estonia V.* Tartu, Estonia. 23.11.2017 – 24.11.2017
+<details> <summary> All presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 </details>
 
 ### Organizing work
-I have helped organize 10 conference with roles ranging from co-chair to volunteer.
+I've been involved in organizing a number of conferences and academic events. Particularly:
+- We initiated the [DH-labs](https://www.facebook.com/groups/2074246709540371/) in Tartu in Spring 2019
+- I am a founding member and a board member in [Estonian Digital Humanities Society](https://dh.org.ee/) 
+- I co-chaired the organization of [Cultural Evolution: Arts, Languages, Technologies](https://cultevol.ut.ee/) in June 2018
+- We organized the [Cultural Evolution Seminar](https://evocultures.wordpress.com/) series at UT in 2015-2018
+- I co-chaired the organization of [Mapping Methods: Approaches to Language Studies](http://mappingmethods.eki.ee/) in May 2014
 <details>
- <summary>Details</summary>
+ <summary>All events and organizations</summary>
 {% capture my_include %}{% include cv-orgs.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </details>
 
 ### Conference attendance
-I once started keeping a log of conferences or workshops visited (as registered participant). This is now up to 40+.
+I once started keeping a log of conferences or workshops visited (as registered participant). This is now up to 40+ (last updated 2017).
 <details>
- <summary>Details</summary>
+ <summary>Conferences visited</summary>
 
 {% capture my_include %}{% include cv-meets.md %}{% endcapture %}
 {{ my_include | markdownify }}
