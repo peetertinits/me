@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_CV.pdf).
+Download: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_long_CV.pdf).
 
 ### Education
 
@@ -13,10 +13,6 @@ Full cv is available as [pdf]({{ site.url }}{{ site.baseurl }}/assets/files/Peet
 - MA (*cum laude*) Semiotics and Cultural Studies. University of Tartu (2015).
 - MSc Evolution of Language and Cognition. University of Edinburgh (2012).
 - BA Semiotics and Culturology. University of Tartu (2010).
-
-<details> <summary>Details (including MOOCs and extra courses)</summary>
-
-</details>
 
 ### Teaching
 I've given lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more at [Teaching](teaching)
@@ -46,7 +42,7 @@ I have helped organize 10 conference with roles ranging from co-chair to volunte
 {{ my_include | markdownify }}
 </details>
 
-## Conference attendance
+### Conference attendance
 I once started keeping a log of conferences or workshops visited (as registered participant). This is now up to 40+.
 <details>
  <summary>Details</summary>
