@@ -8,16 +8,16 @@ classes: wide
 ---
 
 ### 2019
-- Tinits, P. 2019. Oral presentation. Experiments in combining databases: Estonian language community at the end of the 19th century (*Katsetused andmebaaside ühendamisel: eesti keele kogukond 19. saj lõpul*). Estonian Language Institute Graduate Seminar 'Language and Technology' 11.09-13.09.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_EKISEM_slides.pdf)
-- Tinits, P. 2019. Invited talk. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
+- **Tinits, P.** 2019. Oral presentation. Experiments in combining databases: Estonian language community at the end of the 19th century (*Katsetused andmebaaside ühendamisel: eesti keele kogukond 19. saj lõpul*). Estonian Language Institute Graduate Seminar 'Language and Technology' 11.09-13.09.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_EKISEM_slides.pdf)
+- **Tinits, P.** 2019. Invited talk. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
 {: reversed="reversed"}
 
 ### 2018
-- Tinits, P. 2018. Oral presentation. Integrating databases to study language history. 6th Estonian Digital Humanities Conference. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
-- Tinits, P. 2018. Oral presentation. The spread of standard language in Estonian community in 1880-1920 [Standardkirjakujude levik Eesti ühiskonnas 1880-1920]. Changes and influences in language [Mõjutusi ja muutusi keeles.] Narva-Jõesuu, Estonia. 13.09.2018-14.09.2018 [Slides](https://peetertinits.github.io/slides/narvajs2018/prese_Narva_J.html)
-- P. Tinits & S. Hartmann 2018. Poster presentation. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Hartmann_2018_ACE_poster.pdf)
-- O. Sobchuk & P. Poster presentation. Tinits 2018. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2018_ACE_poster.pdf)
-- Tinits, P. 2018. Invited talk. Intelligence of the crowds in nature and culture. Semiosalong. Tartu, Estonia. 02.04.2018[ Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2018_Semiosalong_slides.pdf)
+- **Tinits, P.** 2018. Oral presentation. Integrating databases to study language history. 6th Estonian Digital Humanities Conference. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
+- **Tinits, P.** 2018. Oral presentation. The spread of standard language in Estonian community in 1880-1920 [Standardkirjakujude levik Eesti ühiskonnas 1880-1920]. Changes and influences in language [Mõjutusi ja muutusi keeles.] Narva-Jõesuu, Estonia. 13.09.2018-14.09.2018 [Slides](https://peetertinits.github.io/slides/narvajs2018/prese_Narva_J.html)
+- **Tinits, P.**  & Hartmann, S. 2018. Poster presentation. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Hartmann_2018_ACE_poster.pdf)
+- Sobchuk, O. & **Tinits, P.**  2018. Poster presentation. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2018_ACE_poster.pdf)
+- **Tinits, P.** 2018. Invited talk. Intelligence of the crowds in nature and culture. Semiosalong. Tartu, Estonia. 02.04.2018[ Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2018_Semiosalong_slides.pdf)
 {: reversed="reversed"}
 
 ### 2017

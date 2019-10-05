@@ -28,11 +28,11 @@ I sometimes give lessons and workshops on cultural evolution, text mining, exper
 </details>
 
 ### Presentations (selected)
-- Tinits, P. 2019. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019
-- Tinits, P. 2018. Integrating databases to study language history. *6th Estonian Digital Humanities Conference.* Tartu, Estonia. 26.09.2018-28.09.2018
-- P. Tinits & S. Hartmann 2018. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution 05.06-08-06.2018.* Tartu, Estonia
-- O. Sobchuk & P. Tinits 2018. Films become more complex: three case studies. *Applications in Cultural Evolution 05.06-08-06.2018.* Tartu, Estonia
-- Tinits, P. 2017. Of the replication crisis and its influence to research in a small community. *Theoretical Linguistics in Estonia V.* Tartu, Estonia. 23.11.2017 – 24.11.2017
+- **Tinits, P.** 2019. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
+- **Tinits, P.** 2018. Integrating databases to study language history. 6th Estonian Digital Humanities Conference. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
+- **Tinits, P.**  & Hartmann, S. 2018. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Hartmann_2018_ACE_poster.pdf)
+- Sobchuk, O. & **Tinits, P.**  2018. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2018_ACE_poster.pdf)
+21. **Tinits, P.** 2017. Oral presentation. Of the replication crisis and its influence to research in a small  community. (Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas.) Theoretical Linguistics in Estonia V. 23.11.2017 - 24.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf)
 <details> <summary> All presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}

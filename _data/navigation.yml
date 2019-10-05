@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - #title: "About"
+    #url: /about/
   - title: "Posts"
     url: /year-archive/
   - title: "Research"
@@ -10,13 +10,13 @@ main:
     url: /talks/
   - title: "Datasets"
     url: /datasets/
-    children:
-    - title: "Child Page A1"
-      url: /talks/
-    - title: "Child Page A2"
-      url: /datasets/
-    - title: "Child Page A3"
-      url: /test3/
+    #children:
+    #- title: "Child Page A1"
+    #  url: /talks/
+    #- title: "Child Page A2"
+    #  url: /datasets/
+    #- title: "Child Page A3"
+    #- url: /test3/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
