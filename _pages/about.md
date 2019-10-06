@@ -8,8 +8,8 @@ classes: wide
 
 
 
-I am a PhD student in linguistics, interested in [cultural evolution](/me/cult-evol/), [historical sociolinguistics](/me/hist-soc-ling/) and empirical methods in humanities. My core research interest is in how social learning made by individuals can influence patterns on population levels. I have used various historical datasets to study this process, and am interested in more data.
+I am a PhD student in linguistics, interested in [cultural evolution](/cult-evol/), [historical sociolinguistics](/hist-soc-ling/) and empirical methods in humanities. My core research interest is in how social learning made by individuals can influence patterns on population levels. I have used various historical datasets to study this process, and am interested in more data.
 
 I'm currently employed by University of Tartu as a text mining and digital humanities expert, and I'm working on
 
-My PhD project at Tallinn University is on the standardization of written Estonian in the late 19th century. I have studied the evolution of films, knowledge systems, literature through various corpora. I have also thought more generally about how to involve natural scientific expertise in humanities questions through digital humanities, experimental methods (especially [experimental semiotics](/me/exp-sem/) or something else.
+My PhD project at Tallinn University is on the standardization of written Estonian in the late 19th century. I have studied the evolution of films, knowledge systems, literature through various corpora. I have also thought more generally about how to involve natural scientific expertise in humanities questions through digital humanities, experimental methods (especially [experimental semiotics](/exp-sem/) or something else.

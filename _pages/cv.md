@@ -15,7 +15,7 @@ See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter
 - BA Semiotics and Culturology. University of Tartu (2010).
 
 ### Teaching
-I sometimes give lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more under [teaching](/me/teaching)
+I sometimes give lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more under [teaching](/teaching)
 
 ### Publications (selected)
 - Sobchuk, O.; Tinits, P. To appear. Cultural attraction in film evolution: The case of anachronies. Journal of Cognition and Culture.
