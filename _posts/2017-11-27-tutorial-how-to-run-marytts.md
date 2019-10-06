@@ -9,9 +9,9 @@ tags:
   - data
 ---
 
+Unfinished.
 
-
-simple dumb characters intro - there's naturally more advanced uses for more advanced users via praat and all the more complex stuff...
+simple characters intro - there's naturally more advanced uses for more advanced users via praat and all the more complex stuff...
 
 basic instructions and as simple as that
 
