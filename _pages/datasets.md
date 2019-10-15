@@ -1,4 +1,6 @@
 ---
+layout: single
+title: "Datasets"
 permalink: /datasets/
 last_modified_at: 2019-10-05T20:48:04-05:00
 author_profile: true
