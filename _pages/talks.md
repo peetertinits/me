@@ -8,15 +8,15 @@ classes: wide
 ---
 
 ### 2019
-30. **Tinits, P.** 2019. Talk. Estonian Language Community ca. 1900: Learning from Linked Metadata. 7th Estonian Digital Humanities Conference: Use of Digital Cultural Heritage in Research and Education 04.12-06.12.2019 UPCOMING
-29. **Tinits, P.** 2019. Talk. Of Digital Humanities (*Digihumanitaariast*). Fall Conference for Teachers of Estonian (*Eesti keele õpetajate sügiskonverents* 08.10.2019 UPCOMING
-28. **Tinits, P.** 2019. Talk. Mining texts for social history: Research from spelling standardization to sustainability transitions. Helsinki Digital Humanities Seminar 17.10.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_HelsinkiDH_slides.pdf)
-27. **Tinits, P.** 2019. Talk. Experiments in combining databases: Estonian language community at the end of the 19th century (*Katsetused andmebaaside ühendamisel: eesti keele kogukond 19. saj lõpul*). Estonian Language Institute Graduate Seminar 'Language and Technology' 11.09-13.09.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_EKISEM_slides.pdf)
+30. **Tinits, P.** 2019. Talk. Estonian Language Community ca. 1900: Learning from Linked Metadata. 7th Estonian Digital Humanities Conference: Use of Digital Cultural Heritage in Research and Education. Tallinn, Estonia. 04.12-06.12.2019 UPCOMING
+29. **Tinits, P.** 2019. Talk. Of Digital Humanities (*Digihumanitaariast*). Fall Conference for Teachers of Estonian (*Eesti keele õpetajate sügiskonverents*). Tartu, Estonia. 08.10.2019 UPCOMING
+28. **Tinits, P.** 2019. Talk. Mining texts for social history: Research from spelling standardization to sustainability transitions. Helsinki Digital Humanities Seminar. Helsinki, Finland. 17.10.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_HelsinkiDH_slides.pdf)
+27. **Tinits, P.** 2019. Talk. Experiments in combining databases: Estonian language community at the end of the 19th century (*Katsetused andmebaaside ühendamisel: eesti keele kogukond 19. saj lõpul*). Estonian Language Institute Graduate Seminar 'Language and Technology'. Taagepera loss, Estonia. 11.09-13.09.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_EKISEM_slides.pdf)
 26. **Tinits, P.** 2019. Talk. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
 {: reversed="reversed"}
 
 ### 2018
-25. **Tinits, P.** 2018. Talk. Integrating databases to study language history. 6th Estonian Digital Humanities Conference. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
+25. **Tinits, P.** 2018. Talk. Integrating databases to study language history. 6th Estonian Digital Humanities Conference: Data, humanities & language: tools & applications. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
 24. **Tinits, P.** 2018. Talk. The spread of standard language in Estonian community in 1880-1920 (*Standardkirjakujude levik Eesti ühiskonnas 1880-1920*). Changes and influences in language (*Mõjutusi ja muutusi keeles*) Narva-Jõesuu, Estonia. 13.09.2018-14.09.2018 [Slides](https://peetertinits.github.io/slides/narvajs2018/prese_Narva_J.html)
 23. **Tinits, P.**  & Hartmann, S. 2018. Poster. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Hartmann_2018_ACE_poster.pdf)
 22. Sobchuk, O. & **Tinits, P.**  2018. Poster. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2018_ACE_poster.pdf)
@@ -24,7 +24,7 @@ classes: wide
 {: reversed="reversed"}
 
 ### 2017
-20. **Tinits, P.** 2017. Talk. Of the replication crisis and its influence to research in a small community (*Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas*). Theoretical Linguistics in Estonia V. 23.11.2017 - 24.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf)
+20. **Tinits, P.** 2017. Talk. Of the replication crisis and its influence to research in a small community (*Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas*). Theoretical Linguistics in Estonia V. Tartu, Estonia. 23.11.2017 - 24.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf)
 19. **Tinits, P.** & Sobchuk, O. 2017. Talk. Digital humanities meets film history: is there progress in films? Digital Humanities in Estonia: Open licences, open content, open data: tools for developing digital humanities. Tartu, Estonia. 01.11.2017 – 03.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2017_EDHC_slides.pdf)
 18. **Tinits, P.** & Hartmann, S. 2017. Talk. The grammar of knowledge: Investigating the  emergence of conventions in the evolution of Wikipedia. XLanS: Triggers of language change  in the Language Sciences. Lyon, France. 11.10.2017 - 13.09.2017.
 17. **Tinits, P.** & Sobchuk, O. 2017. Talk. Cumulative cultural evolution in film production  crews. Inaugural Cultural Evolution Society Conference. Jena, Germany. 13.09.2017 -  15.09.2017.
