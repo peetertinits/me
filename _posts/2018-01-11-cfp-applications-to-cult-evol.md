@@ -7,7 +7,7 @@ tags:
   - call for papers
 ---
 
-_Guest post on the [Replicated Typo](http://www.replicatedtypo.com/) by Peeter Tinits and Oleg Sobchuk. Originally posted [here](http://www.replicatedtypo.com/cfp-applications-in-cultural-evolution-june-6-8-tartu/11875.html)_
+_Guest post on the [Replicated Typo](http://www.replicatedtypo.com/) by Peeter Tinits and Oleg Sobchuk. Originally posted [here](http://www.replicatedtypo.com/cfp-applications-in-cultural-evolution-june-6-8-tartu/11875.html)_.
 
 # CfP: Applications in Cultural Evolution, June 6-8, Tartu
 
