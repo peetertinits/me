@@ -9,6 +9,8 @@ tags:
 
 _Guest post on the [Replicated Typo](http://www.replicatedtypo.com/) by Peeter Tinits and Oleg Sobchuk. Originally posted [here](http://www.replicatedtypo.com/cfp-applications-in-cultural-evolution-june-6-8-tartu/11875.html)_
 
+# CfP: Applications in Cultural Evolution, June 6-8, Tartu
+
 As mentioned in [this blog](http://www.replicatedtypo.com/) before, evolutionary thinking can help the study of various cultural practices, not just language. The perspective of cultural evolution is currently seeing an interesting case of global growth and coordination – the widely featured founding of the [Cultural Evolution Society](https://culturalevolutionsociety.org/) (also on [replicatedtypo](http://www.replicatedtypo.com/become-a-founding-member-of-the-society-for-the-study-of-cultural-evolution/10874.html)), the recent [inaugural conference](https://www.shh.mpg.de/cescjena2017) and follow-ups are bringing a diverse set of researchers around the same table. If this has gone past you unnoticed – there’s nice [resources](https://culturalevolutionsociety.org/story/Resources.html)gathered on the society website.
 
 Evolutionary thinking seems useful for various purposes. However does it work the same everywhere, and can research progress in one domain be easily carried over to another?

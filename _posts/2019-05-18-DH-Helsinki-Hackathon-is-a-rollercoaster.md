@@ -1,5 +1,5 @@
 ---
-title: "Blogging during the Helsinki Digital Humanities Hackathon 2019"
+title: "DH Helsinki Hackathon is a rollercoaster"
 header:
 categories:
   - hackathon
