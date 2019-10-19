@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/Peeter_Tinits_long_CV.pdf).
+See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_long_CV.pdf).
 
 ### Education
 

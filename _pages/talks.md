@@ -19,8 +19,8 @@ classes: wide
 25. **Tinits, P.** 2018. Talk. Integrating databases to study language history. 6th Estonian Digital Humanities Conference: Data, humanities & language: tools & applications. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
 24. **Tinits, P.** 2018. Talk. The spread of standard language in Estonian community in 1880-1920 (*Standardkirjakujude levik Eesti ühiskonnas 1880-1920*). Changes and influences in language (*Mõjutusi ja muutusi keeles*) Narva-Jõesuu, Estonia. 13.09.2018-14.09.2018 [Slides](https://peetertinits.github.io/slides/narvajs2018/prese_Narva_J.html)
 23. **Tinits, P.**  & Hartmann, S. 2018. Poster. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Hartmann_2018_ACE_poster.pdf)
-22. Sobchuk, O. & **Tinits, P.**  2018. Poster. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2018_ACE_poster.pdf)
-21. **Tinits, P.** 2018. Talk. Intelligence of the crowds in nature and culture. Semiosalong. Tartu, Estonia. 02.04.2018[ Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2018_Semiosalong_slides.pdf)
+22. Sobchuk, O. & **Tinits, P.**  2018. Poster. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/posters/Tinits_Sobchuk_2018_ACE_poster.pdf)
+21. **Tinits, P.** 2018. Talk. Intelligence of the crowds in nature and culture. Semiosalong. Tartu, Estonia. 02.04.2018[ Slides]({{ site.url }}{{ site.baseurl }}/assets/files/posters/Tinits_2018_Semiosalong_slides.pdf)
 {: reversed="reversed"}
 
 ### 2017
