@@ -51,4 +51,4 @@ All of these topics matter a lot due to limited resources in science, and should
 - Schwarzkopf 2016. [On the magic of independent piloting](https://neuroneurotic.net/2016/08/30/on-the-magic-of-independent-piloting/)
 
 
-I've also uploaded the [slides](https://github.com/peetertinits/talks/raw/master/2017-on-replication-crisis-theorling-Tartu-EST.pdf) if they might be useful. They are (mostly) in Estonian.
+I've also uploaded the [slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf) if they might be useful. They are (mostly) in Estonian.
