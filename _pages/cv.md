@@ -17,7 +17,7 @@ See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Pee
 - BA Semiotics and Culturology. University of Tartu (2010).
 
 ### Teaching
-I sometimes give lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more under [teaching](/teaching)
+I sometimes give lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more under [teaching](/teaching).
 
 ### Publications (selected)
 - Sobchuk, O.; Tinits, P. To appear. Cultural attraction in film evolution: The case of anachronies. Journal of Cognition and Culture.
@@ -32,9 +32,9 @@ I sometimes give lessons and workshops on cultural evolution, text mining, exper
 ### Presentations (selected)
 - **Tinits, P.** 2019. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
 - **Tinits, P.** 2018. Integrating databases to study language history. 6th Estonian Digital Humanities Conference. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
-- **Tinits, P.**  & Hartmann, S. 2018. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Hartmann_2018_ACE_poster.pdf)
-- Sobchuk, O. & **Tinits, P.**  2018. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Sobchuk_2018_ACE_poster.pdf)
-- **Tinits, P.** 2017. Oral presentation. Of the replication crisis and its influence to research in a small  community. (Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas.) Theoretical Linguistics in Estonia V. 23.11.2017 - 24.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf)
+- **Tinits, P.**  & Hartmann, S. 2018. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia. 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/posters/Tinits_Hartmann_2018_ACE_poster.pdf)
+- Sobchuk, O. & **Tinits, P.**  2018. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia. 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/posters/Tinits_Sobchuk_2018_ACE_poster.pdf)
+- **Tinits, P.** 2017. Oral presentation. Of the replication crisis and its influence to research in a small  community. (Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas.) Theoretical Linguistics in Estonia V. Tartu, Estonia. 23.11.2017 - 24.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf)
 <details> <summary> All presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
@@ -43,13 +43,13 @@ I sometimes give lessons and workshops on cultural evolution, text mining, exper
 
 ### Organizing work
 I've been involved in organizing a number of conferences and academic events. Particularly:
-- We initiated the [DH-labs](https://www.facebook.com/groups/2074246709540371/) in Tartu in Spring 2019
-- I am a founding member and a board member in [Estonian Digital Humanities Society](https://dh.org.ee/) 
-- I co-chaired the organization of [Cultural Evolution: Arts, Languages, Technologies](https://cultevol.ut.ee/) in June 2018
-- We organized the [Cultural Evolution Seminar](https://evocultures.wordpress.com/) series at UT in 2015-2018
-- I co-chaired the organization of [Mapping Methods: Approaches to Language Studies](http://mappingmethods.eki.ee/) in May 2014
+- We initiated the [DH-labs](https://www.facebook.com/groups/2074246709540371/) in Tartu in Spring 2019.
+- I am a founding member and a board member in [Estonian Digital Humanities Society](https://dh.org.ee/) .
+- I co-chaired the organization of [Cultural Evolution: Arts, Languages, Technologies](https://cultevol.ut.ee/) in June 2018.
+- We organized the [Cultural Evolution Seminar](https://evocultures.wordpress.com/) series at UT in 2015-2018.
+- I co-chaired the organization of [Mapping Methods: Approaches to Language Studies](http://mappingmethods.eki.ee/) in May 2014.
 <details>
- <summary>All events and organizations</summary>
+ <summary>All events and organizations (last updated 2017)</summary>
 {% capture my_include %}{% include cv-orgs.md %}{% endcapture %}
 {{ my_include | markdownify }}
 </details>
