@@ -297,12 +297,13 @@ defaults:
       share: #true
       related: #true
   # _pages
-author_profile: true
-
-
-defaults:
-  -
-    scope:
-      path:            ["assets/**/*.pdf","google8efd92dc780ed6ff.html"]
+   - scope:
+      path:            "google8efd92dc780ed6ff.html"
     values:
       sitemap:         false
+   - scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
+author_profile: true
+
