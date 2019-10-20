@@ -298,3 +298,11 @@ defaults:
       related: #true
   # _pages
 author_profile: true
+
+
+defaults:
+  -
+    scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
