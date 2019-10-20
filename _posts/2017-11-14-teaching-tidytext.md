@@ -2,8 +2,8 @@
 title: "Text Mining 101 with Tidytext"
 header:
 categories:
-  - Text mining
-  - Teaching
+  - teaching
+  - text-mining
 tags:
   - R
   - data

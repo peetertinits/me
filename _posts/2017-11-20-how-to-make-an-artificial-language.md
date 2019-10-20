@@ -2,8 +2,8 @@
 title: "How to make a (miniature) artificial language?"
 header:
 categories:
-  - Artificial language experiments
-  - How-to
+  - how-to
+  - artificial-language-experiments
 tags:
   - R
   - data

@@ -2,10 +2,9 @@
 title: "Starting a blog"
 header:
 categories:
-  - General
-  - Uncategorized
+  - general
 tags:
-  - Varia
+  - varia
 ---
 
 This is something I've been meaning to do for a while now, finally with some  [inspiration](http://varianceexplained.org/r/start-blog/) from David Robinson, I thought I'd give it a try.

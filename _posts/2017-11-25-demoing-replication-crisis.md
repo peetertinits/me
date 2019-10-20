@@ -2,12 +2,12 @@
 title: "Discussing replication crisis at TheoLingEst 2017"
 header:
 categories:
-  - conference talk
-  - open science
-tags:
-  - replication crisis
   - talk
-  - open science
+  - open-science
+tags:
+  - replication-crisis
+  - talk
+  - open-science
   - slides
   - link-collection
 ---

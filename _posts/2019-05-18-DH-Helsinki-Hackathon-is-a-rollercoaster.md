@@ -4,7 +4,7 @@ header:
 categories:
   - hackathon
 tags:
-  - helsinki hackathon
+  - hackathon
 ---
 
 _This was posted as part of a [series of blogposts by our team](https://medium.com/@GenreAndStyle) during the Digital Humanities Hackathon 2019 in Helsinki. Original post location [here](https://medium.com/@GenreAndStyle/dh-helsinki-hackathon-is-a-rollercoaster-438e9f87235c). I heartily recommend DHH as an event to attend!_
