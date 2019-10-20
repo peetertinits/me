@@ -306,3 +306,10 @@ defaults:
       path:            "assets/**/*.pdf"
     values:
       sitemap:         false
+
+defaults:
+  -
+    scope:
+      path:            "google8efd92dc780ed6ff.html"
+    values:
+      sitemap:         false
