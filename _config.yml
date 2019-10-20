@@ -297,11 +297,11 @@ defaults:
       share: #true
       related: #true
   # _pages
-   - scope:
+  - scope:
       path:            "google8efd92dc780ed6ff.html"
     values:
       sitemap:         false
-   - scope:
+  - scope:
       path:            "assets/**/*.pdf"
     values:
       sitemap:         false
