@@ -305,5 +305,9 @@ defaults:
       path:            "assets/**/*.pdf"
     values:
       sitemap:         false
+  - scope:
+      path:            "*archive*"
+    values:
+      sitemap:         false
 author_profile: true
 
