@@ -7,9 +7,17 @@ author_profile: true
 classes: wide
 ---
 
+### 2020
+
+34. Tinits, P. 2020. Mechanisms behind standardization of written Estonian 1880-1920. Hison 2020: Intra-Writer Variation in Historical Sociolinguistics. Erlangen, Saksamaa 01.04-03.04.2020 [Postponed due to March 2021 due to Covid-19]
+33. Tinits, P. 2020. Estonian language community ca. 1900: learning from linked metadata. 5th Digital Humanities in the Nordic Countries. Rīga, Latvia, 17.03-20.03.2020 [Postponed unitl October 2020 due to Covid-19]
+32. Tinits, P. 2020. Mining texts at the National Library of Estonia: potential for learning and discovery. Symposium Digitizing Cultural Heritage and its Innovative Usage. Tallinn, Estonia 12.03.2020 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2020_DigiSym_Tallinn_slides.pdf)
+31. Tinits, P. 2020. The mechanisms of spelling standardization for written Estonian 1880-1920. 42nd International Conference of the German Linguistics Society (DGfS). The evolution of writing systems workshop. 04.03.-06.03.2020 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2020_EvoWrite_Hamburg_slides.pdf) [Cancelled due to Covid-19]
+
+
 ### 2019
-30. **Tinits, P.** 2019. Talk. Estonian Language Community ca. 1900: Learning from Linked Metadata. 7th Estonian Digital Humanities Conference: Use of Digital Cultural Heritage in Research and Education. Tallinn, Estonia. 04.12-06.12.2019 UPCOMING
-29. **Tinits, P.** 2019. Talk. Of Digital Humanities (*Digihumanitaariast*). Fall Conference for Teachers of Estonian (*Eesti keele õpetajate sügiskonverents*). Tartu, Estonia. 08.10.2019 UPCOMING
+30. **Tinits, P.** 2019. Talk. Estonian Language Community ca. 1900: Learning from Linked Metadata. 7th Estonian Digital Humanities Conference: Use of Digital Cultural Heritage in Research and Education. Tallinn, Estonia. 04.12-06.12.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_EDHC_Tallinn_slides.pdf)
+29. **Tinits, P.** 2019. Talk. Of Digital Humanities (*Digihumanitaariast*). Fall Conference for Teachers of Estonian (*Eesti keele õpetajate sügiskonverents*). Tartu, Estonia. 08.10.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_DHst_Tartu_slides.pdf)
 28. **Tinits, P.** 2019. Talk. Mining texts for social history: Research from spelling standardization to sustainability transitions. Helsinki Digital Humanities Seminar. Helsinki, Finland. 17.10.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_HelsinkiDH_slides.pdf)
 27. **Tinits, P.** 2019. Talk. Experiments in combining databases: Estonian language community at the end of the 19th century (*Katsetused andmebaaside ühendamisel: eesti keele kogukond 19. saj lõpul*). Estonian Language Institute Graduate Seminar 'Language and Technology'. Taagepera loss, Estonia. 11.09-13.09.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_EKISEM_slides.pdf)
 26. **Tinits, P.** 2019. Talk. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
