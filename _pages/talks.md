@@ -9,10 +9,10 @@ classes: wide
 
 ### 2020
 
-34. Tinits, P. 2020. Mechanisms behind standardization of written Estonian 1880-1920. Hison 2020: Intra-Writer Variation in Historical Sociolinguistics. Erlangen, Saksamaa 01.04-03.04.2020 [Postponed due to March 2021 due to Covid-19]
-33. Tinits, P. 2020. Estonian language community ca. 1900: learning from linked metadata. 5th Digital Humanities in the Nordic Countries. Rīga, Latvia, 17.03-20.03.2020 [Postponed unitl October 2020 due to Covid-19]
-32. Tinits, P. 2020. Mining texts at the National Library of Estonia: potential for learning and discovery. Symposium Digitizing Cultural Heritage and its Innovative Usage. Tallinn, Estonia 12.03.2020 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2020_DigiSym_Tallinn_slides.pdf)
-31. Tinits, P. 2020. The mechanisms of spelling standardization for written Estonian 1880-1920. 42nd International Conference of the German Linguistics Society (DGfS). The evolution of writing systems workshop. 04.03.-06.03.2020 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2020_EvoWrite_Hamburg_slides.pdf) [Cancelled due to Covid-19]
+34. **Tinits, P.** 2020. Talk. Mechanisms behind standardization of written Estonian 1880-1920. Hison 2020: Intra-Writer Variation in Historical Sociolinguistics. Erlangen, Saksamaa 01.04-03.04.2020 [Postponed due to March 2021 due to Covid-19]
+33. **Tinits, P.** 2020. Talk. Estonian language community ca. 1900: learning from linked metadata. 5th Digital Humanities in the Nordic Countries. Rīga, Latvia, 17.03-20.03.2020 [Postponed unitl October 2020 due to Covid-19]
+32. **Tinits, P.** 2020. Talk. Mining texts at the National Library of Estonia: potential for learning and discovery. Symposium Digitizing Cultural Heritage and its Innovative Usage. Tallinn, Estonia 12.03.2020 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2020_DigiSym_Tallinn_slides.pdf)
+31. **Tinits, P.** 2020. Talk. The mechanisms of spelling standardization for written Estonian 1880-1920. 42nd International Conference of the German Linguistics Society (DGfS). The evolution of writing systems workshop. 04.03.-06.03.2020 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2020_EvoWrite_Hamburg_slides.pdf) [Cancelled due to Covid-19]
 
 
 ### 2019
