@@ -9,7 +9,7 @@ classes: wide
 
 
 ### 2020
-- Short introduction to R with Tidyverse (SVUH.TK.028, UT, EST)
+- Short introduction to R with Tidyverse (SVUH.TK.028, UT, EST) [Github](https://github.com/peeter-t2/intro_tidyr_2020) [Gitbook](https://peetertinits.github.io/gitbooks/intro_R_2020/intro_tidy.html)
 - Processing and Analyzing Textual Data in the Humanities (HVEE.01.006, UT, EST) [Github](https://github.com/peeter-t2/TM-TartuSpring2020) [Gitbook](https://peetertinits.github.io/gitbooks/tekstid_R_2020/)
   - with Liina Lindström
 
