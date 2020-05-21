@@ -8,6 +8,11 @@ classes: wide
 ---
 
 
+### 2020
+- Short introduction to R with Tidyverse (SVUH.TK.028, UT, EST)
+- Processing and Analyzing Textual Data in the Humanities (HVEE.01.006, UT, EST) [Github](https://github.com/peeter-t2/TM-TartuSpring2020) [Gitbook](https://peetertinits.github.io/gitbooks/tekstid_R_2020/)
+  - with Liina Lindström
+
 ### 2019
 - Text Mining in R and Reproducible Research (DIGMET2019, ENG) [Github](https://github.com/peeter-t2/TM-TartuSummer2019)
 - Introduction to Text Mining with R and Tidyverse (in ETH700, RTU, ENG) [Github](https://github.com/peeter-t2/TM-RigaApr2019)
