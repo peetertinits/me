@@ -16,14 +16,17 @@ The materials are posted online on [github](https://github.com/peeter-t2/TM-Tart
 
 ## Productive years of top artists
 ![Productive years of top artists]({{ site.url }}{{ site.baseurl }}/assets/images/artist_productive_years.png)
+
 Line drawn from first year in the billboards to the last year in the billboards.
 
 ## Sentiments in Aretha Franklin's songs
 ![Sentiments in Aretha Franklin's songs]({{ site.url }}{{ site.baseurl }}/assets/images/franklin_sents.png)
+
 Done using the Bing sentiment lexicon
 
 ## The median TED talk
 ![The median TED talk]({{ site.url }}{{ site.baseurl }}/assets/images/median ted talk.png)
+
 The median location for each word was calculated, and for each 10% quantile, top frequent words were plotted.
 
 
