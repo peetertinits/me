@@ -14,7 +14,6 @@ As part of the studies in Digital Methods and Contemporary datasets we learned a
 
 The materials are posted online on [github](https://github.com/peeter-t2/TM_SV_TartuFall2020). Some graphs made:
 
-
 ## Rank-frequency distribution of pop songs and fiction corpus
 ![Rank-frequency distribution of pop songs and fiction corpus]({{ site.url }}{{ site.baseurl }}/assets/images/ilukirj2.png)
 Rank-frequency distribution of pop songs and fiction corpus. [Estonian newer fiction ngrams](https://datadoi.ee/handle/33/41) was used for comparison.
