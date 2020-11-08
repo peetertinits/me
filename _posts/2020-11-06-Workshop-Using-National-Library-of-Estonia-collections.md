@@ -32,11 +32,11 @@ The first tests look promising, texts can be retrieved fairly quickly and analys
 The workshop materials were posted on [hackmd](https://hackmd.io/OotxTpFhRbCeSylT4RbGVw?view). Some graphs made:
 
 ## Georg Lurich vs Konrad Mägi - distinguishing words
-![Georg Lurich vs Konrad Mägi - distinguishing words]({{ site.url }}{{ site.baseurl }}/assets/images/median ted talk.png)
+![Georg Lurich vs Konrad Mägi - distinguishing words]({{ site.url }}{{ site.baseurl }}/assets/images/lurich_magi.png)
 The distinguishing words between texts containing Georg Lurich and Konrad Mägi 1886-1940.
 
 ## Steam, Electricity, Horses in Estonia 1886-1940
-![Productive years of top artists]({{ site.url }}{{ site.baseurl }}/assets/images/artist_productive_years.png)
+![Productive years of top artists]({{ site.url }}{{ site.baseurl }}/assets/images/aur_elekter_hobu.png)
 The proportion of texts in Postimees 1886-1940 containing words related to steam, electricity, and horses.
 
 ## Electricity and Appliances in Estonia 1886-1940
