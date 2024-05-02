@@ -1,3 +1,6 @@
+
+Last updated 02.05.2024.
+
 ### Publications
 
 1. Pahker, Anna-Kati; Kanger, Laur; **Tinits, Peeter** (2024). Where is the deep sustainability turn most likely to emerge? An Industrial Modernity Index. Technological Forecasting and Social Change, 201, 123227. [https://doi.org/10.1016/j.techfore.2024.123227](https://doi.org/10.1016/j.techfore.2024.123227)

@@ -7,6 +7,7 @@ author_profile: true
 classes: wide
 ---
 
+Last updated 2020.
 
 ### 2020
 - Short introduction to R with Tidyverse (SVUH.TK.028, UT, EST) [Github](https://github.com/peeter-t2/intro_tidyr_2020) [Gitbook](https://peetertinits.github.io/gitbooks/intro_R_2020/intro_tidy.html)

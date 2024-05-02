@@ -1,4 +1,6 @@
 
+Last updated 02.05.2024.
+
 ### 2024
 
 54. **Tinits, P.**; Kruusmaa. K. 2024. Talk. AI-based solutions in the workflows of memory institutions (*Tehisintellektipõhised lahendused mäluasutuste töövoos*). 8th Conference of Digital Humanities in the Nordic and Baltic Countries (DHNB 2024). Reykjavík, Iceland. 27.05.-31.05.2024
