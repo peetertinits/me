@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_long_CV.pdf).
+See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_short_CV.pdf). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_long_CV.pdf). Google Scholar [Page](https://scholar.google.com/citations?user=vhejMFUAAAAJ&hl=en).
 
 ### Education
 
@@ -57,7 +57,7 @@ I've been involved in organizing a number of conferences and academic events. Pa
 ### Conference attendance
 I once started keeping a log of conferences or workshops visited (as registered participant). This is now up to 40+ (last updated 2017).
 <details>
- <summary>Conferences visited</summary>
+ <summary>Conferences visited (last updated 2017)</summary>
 
 {% capture my_include %}{% include cv-meets.md %}{% endcapture %}
 {{ my_include | markdownify }}
