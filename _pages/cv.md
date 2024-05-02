@@ -17,11 +17,15 @@ See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Pee
 - BA Semiotics and Culturology. University of Tartu (2010).
 
 ### Teaching
-I sometimes give lessons and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more under [teaching](/teaching).
+I sometimes give classes and workshops on cultural evolution, text mining, experimental semiotics, and historical sociolinguistics. See more under [teaching](/teaching).
 
 ### Publications (selected)
-- Sobchuk, O.; Tinits, P. To appear. Cultural attraction in film evolution: The case of anachronies. Journal of Cognition and Culture.
-- Tinits, P.* ; Nölle, J.* ; Hartmann, S.* 2017. Usage context influences the evolution of overspecification in iterated learning. Journal of Language Evolution, 2: 2, 148–159. [https://doi.org/10.1093/jole/lzx011](https://doi.org/10.1093/jole/lzx011) * - Authors contributed equally
+1. Kanger, Laur; **Tinits, Peeter**; Pahker, Anna-Kati; Orru, Kati; Velmet, Aro; Sillak, Silver; Šeļa, Artjoms; Mertelsmann, Olaf; Tammiksaar, Erki; Vaik, Kristiina; Penna, Caetano C.R.; Tiwari, Amaresh Kumar; Lauk, Kalmer (2023). Long-term country-level evidence of major but uneven ruptures in the landscape of industrial modernity. Environmental Innovation and Societal Transitions, 48. [https://doi.org/10.1016/j.eist.2023.100765](https://doi.org/10.1016/j.eist.2023.100765)
+3. **Tinits, Peeter** (2023). Stratified Historical Corpus of Estonian 1800-1940. Eesti Rakenduslingvistika Ühingu aastaraamat = Estonian papers in applied linguistics, 19, 175−194. [https://doi.org/10.5128/ERYa19.11](https://doi.org/10.5128/ERYa19.11) [PDF](http://arhiiv.rakenduslingvistika.ee/ajakirjad/index.php/aastaraamat/article/view/ERYa19.11/571)
+1. Sobchuk, Oleg; Tinits, Peeter (2020). Cultural attraction in film evolution: The case of anachronies. Journal of Cognition and Culture, 20 (3-4), 218−237. [https://doi.org/10.1163/15685373-12340082](https://doi.org/10.1163/15685373-12340082). [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/papers/Sobchuk_Tinits_2020_Anachronies_in_Film_Evolution.pdf)
+1. **Tinits, Peeter**; Sobchuk, Oleg (2020). Open-ended cumulative cultural evolution of Hollywood film crews. Evolutionary Human Sciences, 1−16. DOI: 10.1017/ehs.2020.21. [https://doi.org/10.1017/ehs.2020.21](https://doi.org/10.1017/ehs.2020.21) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4FEC5F46E4EAA1574E3BDC962DD658B9/S2513843X20000213a.pdf/open-ended-cumulative-cultural-evolution-of-hollywood-film-crews.pdf)
+1. **Tinits, Peeter** *; Nolle, Jonas *; Hartmann, Stefan * (2017). Usage context influences the evolution of overspecification in iterated learning. Journal of Language Evolution, 2 (2, 2), 148−159. * - Authors contributed equally  [https://doi.org/10.1093/jole/lzx011](https://doi.org/10.1093/jole/lzx011) [PDF](https://academic.oup.com/jole/article-pdf/2/2/148/19284956/lzx011.pdf) 
+
 <details> <summary> All publications </summary>
 
 {% capture my_include %}{% include cv-pubs.md %}{% endcapture %}
@@ -30,18 +34,17 @@ I sometimes give lessons and workshops on cultural evolution, text mining, exper
 </details>
 
 ### Presentations (selected)
-- **Tinits, P.** 2019. A digital humanities approach to historical sociolinguistics of Estonian. *Baltic Summer School of Digital Humanities.* Riga, Latvia. 22.07-26.07.2019 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2019_Riga_BSSDH_slides.pdf)
-- **Tinits, P.** 2018. Integrating databases to study language history. 6th Estonian Digital Humanities Conference. Tartu, Estonia. 26.09.2018-28.09.2018 [Slides](https://peetertinits.github.io/slides/EDHC2018/prese_EDHC_2018.html)
-- **Tinits, P.**  & Hartmann, S. 2018. Social learning of knowledge representations in Wikipedia. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia. 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/posters/Tinits_Hartmann_2018_ACE_poster.pdf)
-- Sobchuk, O. & **Tinits, P.**  2018. Films become more complex: three case studies. *Applications in Cultural Evolution: Arts, Languages, Technologies.* Tartu, Estonia. 05.06-08-06.2018 [Poster]({{ site.url }}{{ site.baseurl }}/assets/files/posters/Tinits_Sobchuk_2018_ACE_poster.pdf)
-- **Tinits, P.** 2017. Oral presentation. Of the replication crisis and its influence to research in a small  community. (Replikatsioonikriisist ja selle mõjust teadusele väikses kogukonnas.) Theoretical Linguistics in Estonia V. Tartu, Estonia. 23.11.2017 - 24.11.2017 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2017_TheorLing_slides.pdf)
+49. **Tinits, P.** 2023. Talk. Studying major transitions in literary communities through the Estonian National Bibliography (1800-1940). The Cultural Data Analytics Conference 2023. Tallinn, Estonia 13.12-16.12.2023 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Kruusmaa_Nemvalts_2023_CUDAN_slides.pdf)
+46. **Tinits, P.** 2023. Talk. The Stratified Corpus of Estonian Written Language 1800-1940. (*Eesti kirjakeele kihiline korpus 1800-1940*.) 20th Conference of the Estonian Association for Applied Linguistics: Language and Users (*ERÜ kevadkonverents 2023: 20. rakenduslingvistika konverents: keel ja keelekasutajad*) Tallinn, Estonia. 27.04-28.04.2023 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2023_ERY_slides.pdf)
+41. **Tinits, P.** 2022. Talk. Deep Transitions: Mapping Long-Term Changes in Industrial Modernity. Tallinn, Estonia. 05.10-07.10.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_DHE_Deep_Transitions_slides.pdf)
+38. **Tinits, P.** 2021. Talk. Mechanisms behind standardization of written Estonian 1880-1920. Hison 2020: Intra-Writer Variation in Historical Sociolinguistics. Erlangen, Germany 01.04-03.04.2020 (took place virtually 17.03-19.03.2021) [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2021_HiSoN_slides.pdf)
 <details> <summary> All presentations </summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 </details>
 
-### Organizing work
+### Organizing work (last updated 2020)
 I've been involved in organizing a number of conferences and academic events. Particularly:
 - We initiated the [DH-labs](https://www.facebook.com/groups/2074246709540371/) in Tartu in Spring 2019.
 - I am a founding member and a board member in [Estonian Digital Humanities Society](https://dh.org.ee/) .
