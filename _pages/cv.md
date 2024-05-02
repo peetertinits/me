@@ -26,7 +26,7 @@ I sometimes give classes and workshops on cultural evolution, text mining, exper
 1. **Tinits, Peeter**; Sobchuk, Oleg (2020). Open-ended cumulative cultural evolution of Hollywood film crews. Evolutionary Human Sciences, 1−16. DOI: 10.1017/ehs.2020.21. [https://doi.org/10.1017/ehs.2020.21](https://doi.org/10.1017/ehs.2020.21) [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4FEC5F46E4EAA1574E3BDC962DD658B9/S2513843X20000213a.pdf/open-ended-cumulative-cultural-evolution-of-hollywood-film-crews.pdf)
 1. **Tinits, Peeter** *; Nolle, Jonas *; Hartmann, Stefan * (2017). Usage context influences the evolution of overspecification in iterated learning. Journal of Language Evolution, 2 (2, 2), 148−159. * - Authors contributed equally  [https://doi.org/10.1093/jole/lzx011](https://doi.org/10.1093/jole/lzx011) [PDF](https://academic.oup.com/jole/article-pdf/2/2/148/19284956/lzx011.pdf) 
 
-<details> <summary> All publications </summary>
+<details> <summary> All publications (13)</summary>
 
 {% capture my_include %}{% include cv-pubs.md %}{% endcapture %}
 {{ my_include | markdownify }}
@@ -38,7 +38,7 @@ I sometimes give classes and workshops on cultural evolution, text mining, exper
 46. **Tinits, P.** 2023. Talk. The Stratified Corpus of Estonian Written Language 1800-1940. (*Eesti kirjakeele kihiline korpus 1800-1940*.) 20th Conference of the Estonian Association for Applied Linguistics: Language and Users (*ERÜ kevadkonverents 2023: 20. rakenduslingvistika konverents: keel ja keelekasutajad*) Tallinn, Estonia. 27.04-28.04.2023 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2023_ERY_slides.pdf)
 41. **Tinits, P.** 2022. Talk. Deep Transitions: Mapping Long-Term Changes in Industrial Modernity. Tallinn, Estonia. 05.10-07.10.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_DHE_Deep_Transitions_slides.pdf)
 38. **Tinits, P.** 2021. Talk. Mechanisms behind standardization of written Estonian 1880-1920. Hison 2020: Intra-Writer Variation in Historical Sociolinguistics. Erlangen, Germany 01.04-03.04.2020 (took place virtually 17.03-19.03.2021) [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2021_HiSoN_slides.pdf)
-<details> <summary> All presentations </summary>
+<details> <summary> All presentations (54)</summary>
 {% capture my_include %}{% include cv-pres.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
