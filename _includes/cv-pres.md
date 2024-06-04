@@ -1,9 +1,10 @@
 
-Talks last updated 02.05.2024.
+Talks last updated 04.06.2024.
 
 ### 2024
 
-54. **Tinits, P.**; Kruusmaa. K. 2024. Talk. AI-based solutions in the workflows of memory institutions (*Tehisintellektipõhised lahendused mäluasutuste töövoos*). 8th Conference of Digital Humanities in the Nordic and Baltic Countries (DHNB 2024). Reykjavík, Iceland. 27.05.-31.05.2024
+54. **Tinits, P.**; Kruusmaa. K.; Nemvalts, L. 2024. Talk. The multilingual cultural history in national
+bibliographies: the Baltic case 1800-1940. 8th Conference of Digital Humanities in the Nordic and Baltic Countries (DHNB 2024). Reykjavík, Iceland. 27.05.-31.05.2024 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Kruusmaa_Nemvalts_2024_DHNB_slides.pdf)
 53. Kruusmaa, K.; Nemvalts, L.; **Tinits, P.** 2024. Talk. AI-based solutions in the workflows of memory institutions (*Tehisintellektipõhised lahendused mäluasutuste töövoos*.) 1st Annual Conference for Humanites in Estonia. (*1. Eesti humanitaarteaduste aastakonverents.*) Tallinn, Estonia. 10.04.-12.04.2024
 52. **Tinits, P.**; Kruusmaa. K. 2024. Talk. The 19th Century Baltic Literary Space in the Estonian National Bibliography. (*19. sajandi Balti kirjaruum Eesti Rahvusbibliograafias*.) 1st Annual Conference for Humanites in Estonia. (*1. Eesti humanitaarteaduste aastakonverents.*) Tallinn, Estonia. 10.04.-12.04.2024 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_Kruusmaa_2024_EHAK_slides.pdf)
 51. **Tinits, P.** 2024. Talk. Digitized Newspapers in Estonia as a Research Source (*Digiteeritud Eesti ajalehed uurimisallikana*.) 1st Annual Conference for Humanites in Estonia. (*1. Eesti humanitaarteaduste aastakonverents.*) Tallinn, Estonia. 10.04.-12.04.2024 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2024_EHAK_ajalehed_slides.pdf)
