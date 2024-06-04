@@ -24,7 +24,7 @@ bibliographies: the Baltic case 1800-1940. 8th Conference of Digital Humanities 
 
 43. **Tinits, P.** 2022. Talk. With databases on the sources of Estonian written language norms (*Andmebaasidega eesti kirjanormide lätetel*). Day of Text. Krista Kerge 70 (*Tekstipäev. Krista Kerge 70*). Tallinn, Estonia 07.11.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_Tekstipaev_slides.pdf)
 42. **Tinits, P.** 2022. Talk. Virtual Lab at the National Library of Estonia. 8th Estonian Digital Humanities Conference. Tallinn, Estonia. 05.10-07.10.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_DHE_Virtual_Lab_slides.pdf)
-41. **Tinits, P.** 2022. Talk. Deep Transitions: Mapping Long-Term Changes in Industrial Modernity. Tallinn, Estonia. 05.10-07.10.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_DHE_Deep_Transitions_slides.pdf)
+41. **Tinits, P.** 2022. Talk. Deep Transitions: Mapping Long-Term Changes in Industrial Modernity. 8th Estonian Digital Humanities Conference. Tallinn, Estonia. 05.10-07.10.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_DHE_Deep_Transitions_slides.pdf)
 40. **Tinits, P.** 2022. Talk. Deep Transitions: text mining historical newspapers for social history. Workshop “Cultural Evolution & Computational Humanities”. Jena, Germany 29.06-30.06.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_Jena_workshop_slides.pdf)
 39. **Tinits, P.** 2022. Talk. Intentional language change: written Estonian ca 1900. Congress “Juri Lotman’s Semiosphere”. 25.02.-28.02.2022 [Slides]({{ site.url }}{{ site.baseurl }}/assets/files/slides/Tinits_2022_Lotman_Congress_slides.pdf)
 
