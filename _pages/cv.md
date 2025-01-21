@@ -7,7 +7,7 @@ author_profile: true
 classes: wide
 ---
 
-See also: Academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_long_CV.pdf) (last updated 31/03/2024). Google Scholar [Page](https://scholar.google.com/citations?user=vhejMFUAAAAJ&hl=en).
+See also: Academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_CV.pdf) (last updated 21/05/2025). Google Scholar [Page](https://scholar.google.com/citations?user=vhejMFUAAAAJ&hl=en).
 
 ### Education
 
