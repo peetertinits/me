@@ -7,11 +7,11 @@ author_profile: true
 classes: wide
 ---
 
-See also: Short CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_short_CV.pdf) (last updated 2019). Long academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_long_CV.pdf) (last updated 31/03/2024). Google Scholar [Page](https://scholar.google.com/citations?user=vhejMFUAAAAJ&hl=en).
+See also: Academic CV in [PDF]({{ site.url }}{{ site.baseurl }}/assets/files/cv/Peeter_Tinits_long_CV.pdf) (last updated 31/03/2024). Google Scholar [Page](https://scholar.google.com/citations?user=vhejMFUAAAAJ&hl=en).
 
 ### Education
 
-- PhD (in progress) Linguistics. Tallinn University (2013-...).
+- PhD (*laudatur*) Linguistics. Tallinn University (2024).
 - MA (*cum laude*) Semiotics and Cultural Studies. University of Tartu (2015).
 - MSc Evolution of Language and Cognition. University of Edinburgh (2012).
 - BA Semiotics and Culturology. University of Tartu (2010).
