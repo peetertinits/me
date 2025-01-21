@@ -17,11 +17,16 @@ Publications last updated 02.05.2024.
 2. Kanatova, Maria *; Milyakina, Alexandra *; Pilipovec, Tatyana *; Shelya, Artjom *; Sobchuk, Oleg *; **Tinits, Peeter** * (2017). Broken Time, Continued Evolution: Anachronies in Contemporary Films. 14, 1−22. [PDF](https://litlab.stanford.edu/LiteraryLabPamphlet14.pdf) * - Authors in alphabetical order. 	
 1. **Tinits, P.** 2014. Language stability and morphological complexity in situations of language contact. An experimental paradigm. Conference proceedings for the International Congress of Linguists 19. [PDF](http://bit.ly/1dEGip4)
 
-### Varia
+### Thesis
 
-3. **Tinits, P.** 2015. Language interest: Estonia. In: Leerssen, Joep (Ed.) Encyclopedia of Romantic 	Nationalism in Europe (ERNiE). (electronic version; Amsterdam: Study Platform on Interlocking 	Nationalisms, www.romanticnationalism.net) [    Link](https://ernie.uva.nl/viewer.p/21/56/object/122-159943)
-2. **Tinits, P.** 2017. How to make an opera about science? (*Kuidas teha ooperit teadusest?*) A review of the opera „Der nordische Baer” by Dominy Clements. Teater. Muusika. Kino. May, 2017. [Link](https://dea.digar.ee/cgi-bin/dea?a=d&d=AKtmk201705.2.8.4)
-1. **Tinits, P.** 2014. Meaning and meaning fields: A non-dualist approach by Martin Staude. Review of Staude, Martin 2012. Meaning in Communication, Cognition, and Reality: Outline of a Theory from Semiotics, Philosophy, and Sociology. Sign Systems Studies, 42(1), 147 - 156. [http://dx.doi.org/10.12697/SSS.2014.42.1.07](http://dx.doi.org/10.12697/SSS.2014.42.1.07)
+1. **Tinits, Peeter**. 2024. Cultural Evolution in Language and Art. Tallinn University Dissertations on Humanities. Tallinn: Tallinn University. [PDF](https://www.etera.ee/zoom/203116/view).
+
+### Reviews, enclyclopedia entries, popular science.
+
+1. **Tinits, Peeter**. 2023. Digital humanist answers: how many books have been published in Estonian? (*Digihumanitaar vastab: kui palju on eesti keeles raamatuid ilmunud?*) Novaator 23.11.2023 [Link](https://novaator.err.ee/1609173673/digihumanitaar-vastab-kui-palju-on-eesti-keeles-raamatuid-ilmunud)
+2. **Tinits, Peeter**. 2017. How to make an opera about science? (*Kuidas teha ooperit teadusest?*) A review of the opera „Der nordische Baer” by Dominy Clements. Teater. Muusika. Kino. May, 2017. [Link](https://dea.digar.ee/cgi-bin/dea?a=d&d=AKtmk201705.2.8.4)
+3. **Tinits, Peeter**. 2015. Language interest: Estonia. In: Leerssen, Joep (Ed.) Encyclopedia of Romantic 	Nationalism in Europe (ERNiE). (electronic version; Amsterdam: Study Platform on Interlocking 	Nationalisms, www.romanticnationalism.net) [Link](https://ernie.uva.nl/viewer.p/21/56/object/122-159943)
+1. **Tinits, Peeter**. 2014. Meaning and meaning fields: A non-dualist approach by Martin Staude. Review of Staude, Martin 2012. Meaning in Communication, Cognition, and Reality: Outline of a Theory from Semiotics, Philosophy, and Sociology. Sign Systems Studies, 42(1), 147 - 156. [http://dx.doi.org/10.12697/SSS.2014.42.1.07](http://dx.doi.org/10.12697/SSS.2014.42.1.07)
 <!--{: reversed="reversed"}-->
 
 
