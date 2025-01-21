@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-last_modified_at: 2025-21-01T20:48:04-05:00
+last_modified_at: 2025-01-21T20:48:04-05:00
 author_profile: true
 classes: wide
 ---
